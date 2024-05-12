@@ -13,5 +13,10 @@
       "id_product": 506,
       "title": "Наушники",
       "price": 850
+    },
+    {
+      "id_product": 676,
+      "product_name": "Сумка для ноутбука",
+      "price": 1850
     }
   ]
